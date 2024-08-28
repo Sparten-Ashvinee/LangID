@@ -1,11 +1,12 @@
 # Indian Multilanguage classification
 
-We are developing a web inference system for testing, available at ![Ashvinee.xyz](https://www.ashvinee.xyz/coming-soon-01)
+We are developing a web inference system for testing, available at [Ashvinee.xyz](https://www.ashvinee.xyz/coming-soon-01)
 This work is part of the research project titled “An Architecture of Machine Translation for Text Analysis and Speech to Sign Language”.
 
 The objective was to build a machine learning classifier capable of categorizing text into various categories across multiple languages spoken in India. Given India’s linguistic diversity, this task involves handling several Indian languages, each with distinct scripts, grammar, vocabulary, and cultural contexts.
 
 ### Dataset
+The data was collected from the ground up.
 The dataset includes text in the following languages:
   - Hindi
   - Bengali
@@ -37,6 +38,6 @@ The table below compares the performance of different models in classifying Indi
 - Ashvinee, Narendra Bhusakhare, Jitesh Singh, Mausumi Goswami, “An architecture of machine
   translation from speech to sign language based on machine learning”, 2018 International Conference on
   Economics, Business Management and Business Analytic.
-- https://drive.google.com/file/d/12FUb7YFmwyA0-Hqw8OcGQX9YRdjgRv4h/view
-- https://ieeexplore.ieee.org/document/7476863
+- [TEXT ANALYSIS AND SPEECH TO SIGN LANGUAGE TRANSLATION](https://drive.google.com/file/d/12FUb7YFmwyA0-Hqw8OcGQX9YRdjgRv4h/view)
+- [Understand Short Texts by Harvesting and Analyzing Semantic Knowledge](https://ieeexplore.ieee.org/document/7476863)
 
