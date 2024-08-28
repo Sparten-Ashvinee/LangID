@@ -1,6 +1,6 @@
 # Indian Multilanguage classification
 
-This work is part of the research project titled “An Architecture of Machine Translation for Text Analysis and Speech to Sign Language”.
+This work is part of the research project titled __“An Architecture of Machine Translation for Text Analysis and Speech to Sign Language”__.
 
 The objective was to build a machine learning classifier capable of categorizing text into various categories across multiple languages spoken in India. Given India’s linguistic diversity, this task involves handling several Indian languages, each with distinct scripts, grammar, vocabulary, and cultural contexts.
 
